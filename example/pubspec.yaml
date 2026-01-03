@@ -1,0 +1,22 @@
+name: localingo_example
+description: Example app demonstrating Localingo package usage
+publish_to: 'none'
+
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  localingo:
+    path: ../
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/l10n/

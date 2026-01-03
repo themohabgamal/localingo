@@ -1,0 +1,114 @@
+{
+    "app_name": "Flutter Auto L10n",
+    "app_tagline": "Build once, localize everywhere",
+    "general": {
+        "ok": "OK",
+        "yes": "Yes",
+        "no": "No",
+        "close": "Close",
+        "confirm": "Confirm",
+        "continue": "Continue",
+        "back": "Back",
+        "next": "Next",
+        "skip": "Skip",
+        "done": "Done",
+        "loading": "Loading...",
+        "please_wait": "Please wait",
+        "retry": "Retry",
+        "cancel": "Cancel"
+    },
+    "auth": {
+        "welcome_message": "Welcome to the app",
+        "login": "Log In",
+        "signup": "Sign Up",
+        "logout": "Log Out",
+        "email": "Email Address",
+        "password": "Password",
+        "confirm_password": "Confirm Password",
+        "forgot_password": "Forgot password?",
+        "remember_me": "Remember me",
+        "dont_have_account": "Don't have an account?",
+        "already_have_account": "Already have an account?",
+        "login_success": "Logged in successfully",
+        "logout_success": "You have been logged out",
+        "invalid_credentials": "Invalid email or password"
+    },
+    "validation": {
+        "required_field": "This field is required",
+        "invalid_email": "Please enter a valid email",
+        "password_too_short": "Password must be at least 8 characters",
+        "passwords_not_match": "Passwords do not match",
+        "invalid_phone": "Invalid phone number"
+    },
+    "home": {
+        "title": "Home",
+        "welcome_user": "Welcome, {username}",
+        "search_placeholder": "Search...",
+        "no_results": "No results found",
+        "pull_to_refresh": "Pull to refresh",
+        "refreshing": "Refreshing..."
+    },
+    "profile": {
+        "title": "Profile",
+        "edit_profile": "Edit Profile",
+        "name": "Name",
+        "phone": "Phone Number",
+        "address": "Address",
+        "save_changes": "Save Changes",
+        "profile_updated": "Profile updated successfully"
+    },
+    "settings": {
+        "title": "Settings",
+        "language": "Language",
+        "select_language": "Select Language",
+        "theme": "Theme",
+        "dark_mode": "Dark Mode",
+        "light_mode": "Light Mode",
+        "system_default": "System Default",
+        "notifications": "Notifications",
+        "enable_notifications": "Enable Notifications",
+        "privacy": "Privacy",
+        "security": "Security",
+        "about_app": "About App"
+    },
+    "errors": {
+        "something_went_wrong": "Something went wrong",
+        "unknown_error": "Unknown error occurred",
+        "no_internet": "No internet connection",
+        "timeout": "Request timed out",
+        "server_error": "Server error, please try again later",
+        "unauthorized": "Unauthorized access"
+    },
+    "success": {
+        "action_completed": "Action completed successfully",
+        "data_saved": "Data saved successfully",
+        "changes_applied": "Changes applied"
+    },
+    "empty_states": {
+        "no_data": "No data available",
+        "no_notifications": "You have no notifications",
+        "no_messages": "No messages yet"
+    },
+    "notifications": {
+        "title": "Notifications",
+        "new_message": "You have a new message",
+        "update_available": "New update available",
+        "mark_all_read": "Mark all as read",
+        "clear_all": "Clear all"
+    },
+    "dialogs": {
+        "delete_title": "Delete Item",
+        "delete_message": "Are you sure you want to delete this item?",
+        "logout_title": "Log Out",
+        "logout_message": "Are you sure you want to log out?"
+    },
+    "dates": {
+        "today": "Today",
+        "yesterday": "Yesterday",
+        "tomorrow": "Tomorrow",
+        "days_ago": "{count} days ago"
+    },
+    "placeholders": {
+        "long_text": "This is a long placeholder text used to test text wrapping, overflow, and multi-line localization inside the Flutter UI components."
+    }
+}
